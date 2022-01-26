@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1>THIS IS A DEVOPS PROJECT </h1>
